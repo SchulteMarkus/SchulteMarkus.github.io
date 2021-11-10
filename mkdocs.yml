@@ -1,0 +1,22 @@
+site_name: Schulte development
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: red
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+copyright: Copyright &copy; 2022 Markus Schulte
+plugins: [ ]
+markdown_extensions:
+  - meta
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/markus-schulte/
+    - icon: fontawesome/brands/github
+      link: https://github.com/SchulteMarkus
+extra_css:
+  - extra.css
