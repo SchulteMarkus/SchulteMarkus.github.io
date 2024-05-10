@@ -1,13 +1,16 @@
 title: Schulte development
 author: Markus Schulte
 email: mail@schulte-development.de
-avatar: assets/markus-schulte.jpg
+avatar: assets/img/markus-schulte.jpg
 url: https://schulte-development.de
-remote_theme: daattali/beautiful-jekyll
+keywords: "Azure,AWS,technical architect,Java,Golang"
 plugins:
   - jekyll-remote-theme
-edit_page_button: true
+remote_theme: daattali/beautiful-jekyll
 navbar-links:
+  About Me: "/#about-me"
+  Services: "/#my-services"
+  Portfolio: "/#my-portfolio"
   Imprint: imprint
 social-network-links:
   email: mail@schulte-development.de

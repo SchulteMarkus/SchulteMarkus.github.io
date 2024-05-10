@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Imprint
+title: Impressum
 ---
 
 # Angaben gemäß § 5 TMG
 
-Markus Schulte, Belvederestr. 78, 50933 Köln
+Schulte development, Unter Gottes Gnaden 12, 50859 Köln
 
 +49 178 721 7768
 

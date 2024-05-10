@@ -1,0 +1,9 @@
+- title: Technical cloud architect
+  description: As a technical cloud architect, I design IT systems and support the implementing team of specialists in realizing them
+  skills: Azure, AWS, Kubernetes (K8s)
+- title: Programming
+  description: I have a lot of experience as an engineer, usually working with Java or Golang and some TypeScript in the last years.
+  skills: Java, JavaEE, Golang
+- title: DevOp
+  description: In addition to designing and implementing software, I am also proficient in continuous integration and operation
+  skills: Azure DevOps, Jenkins, Azure Insights
