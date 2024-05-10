@@ -7,5 +7,5 @@ This repository contains the sourcecode for [schulte-development.de](https://sch
 # Development notes
 
 - [Jekyll](https://jekyllrb.com) as the static site framework
-    - Theme: (Beautiful Jekyll](https://beautifuljekyll.com/)
+    - [Beautiful Jekyll](https://beautifuljekyll.com) as the Jekyll theme
 - Hosted by [GitHub Pages](https://pages.github.com/)
