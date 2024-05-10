@@ -9,3 +9,13 @@ This repository contains the sourcecode for [schulte-development.de](https://sch
 - [Jekyll](https://jekyllrb.com) as the static site framework
     - [Beautiful Jekyll](https://beautifuljekyll.com) as the Jekyll theme
 - Hosted by [GitHub Pages](https://pages.github.com/)
+
+## Setup
+
+Follow [Jekyll installation instructions](https://jekyllrb.com/docs/#instructions)
+
+## Run locally
+
+```
+$ make
+```
