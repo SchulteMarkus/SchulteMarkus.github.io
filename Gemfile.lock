@@ -92,9 +92,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  beautiful-jekyll-theme (~> 6.0)
+  beautiful-jekyll-theme (~> 6.0, >= 6.0.1)
   jekyll (~> 4.3.3)
-  jekyll-remote-theme
+  jekyll-remote-theme (~> 0.4.3)
 
 BUNDLED WITH
    2.5.10
