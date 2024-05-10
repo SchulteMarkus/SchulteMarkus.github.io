@@ -1,3 +1,10 @@
-dev-serve:
-	xdg-open http://localhost:8000
-	docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+.ONESHELL:
+
+clean:
+	cd schulte-development
+	rm -r .jekyll-cache
+	rm -r _site
+
+serve-lr-wsl:
+	cd schulte-development
+	bundle exec jekyll serve --force_polling --livereload
