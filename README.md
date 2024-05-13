@@ -14,6 +14,4 @@ Follow [Jekyll installation instructions](https://jekyllrb.com/docs/#instruction
 
 ## Run locally
 
-```
-$ make
-```
+    $ make

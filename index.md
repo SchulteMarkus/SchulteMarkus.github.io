@@ -8,49 +8,69 @@ css:
 
 I am a computer scientist with more than **15 years of experience** in various programming
 languages, systems and team constellations.
-As a freelancer, I provide my expertise in various software projects—from cloud consulting and
-development to training and coaching of employees—and help you to create a more efficient and
+As a freelancer, I offer my expertise in various software projects—from cloud consulting and
+development to training and coaching of employees—and help you to build a more efficient and
 sustainable business.
 
-## Career
+## My career
 
-- After leaving school, I began my studies in computer science at the University of Koblenz in **2004**,
-  which I completed with a diploma (similar to M.Sc.) in 2012
-- Parallel to my studies, I started working at
+- After leaving school, I started studying computer science at the University of Koblenz in 
+  **2004**, which I finished with a diploma (similar to M.Sc.) in 2012
+- Parallel to my studies, I started working for
   [wer-kennt-wen.de](https://en.wikipedia.org/wiki/Werkenntwen) in **2008** as a PHP developer and
-  later head of development
-- In **2014** I reoriented myself professionally and decided to become a freelancer
+  later as head of development
+- In **2014** I changed my career direction and decided to become a freelancer
 
 ## My values
 
-Through my many years of experience, I have come to the conclusion that only consistently **clean IT
-architecture and development** lead to the success of a product.
-
-I am guided by the values of
+I have come to the conclusion that only consistent **clean IT architecture and development** leads
+to success.
+Hereby I am guided by the values of
 [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
+
+I think the collaboration and the human components are just as important as the technical ones.
+The sooner the right people have the right responsibilities, the better a product will succeed.
+It is impressive how much a **good team** can achieve.
+
+## Get in contact
+
+<div class="page-section">
+  <div class="box">
+    <a href="mailto:mail@schulte-development.de">
+      <img src="/assets/img/logos/mail.png" alt="Logo of email"/>
+      <div class="box-desc">mail@schulte-development.de</div>
+    </a>
+  </div>
+  <div class="box">
+    <a href="https://www.linkedin.com/in/markus-schulte">
+      <img src="/assets/img/logos/linkedin.png"  alt="LinkedIn logo"/>
+      <div class="box-desc">LinkedIn</div>
+    </a>
+  </div>
+</div>
 
 # My services
 
 <div class="page-section">
-  {% for app in site.data.services %}
-    <div class="box">
-      <div class="box-title">{{ app.title }}</div>
-      <div class="box-desc">{{ app.description }}</div>
-      <div class="box-desc">{{ app.skills }}</div>
-    </div>
-  {% endfor %}
+{% for app in site.data.services %}
+  <div class="box">
+    <div class="box-title">{{ app.title }}</div>
+    <div class="box-desc">{{ app.description }}</div>
+    <div class="box-desc">{{ app.skills }}</div>
+  </div>
+{% endfor %}
 </div>
 
 # My portfolio
 
-<div id="portfolio" class="page-section grey-section">
-  {% for app in site.data.portfolio %}
-    <div class="box">
-      <a class="applink" href="{{ app.url }}">
-        <img class="appimg" src="/assets/img/logos/{{ app.img }}" />
-        <div class="box-title">{{ app.title }}</div>
-        <div class="box-desc">{{ app.description }}</div>
-      </a>
-    </div>
-  {% endfor %}
+<div class="page-section">
+{% for app in site.data.portfolio %}
+  <div class="box">
+    <a href="{{ app.url }}">
+      <img src="/assets/img/logos/{{ app.img }}"  alt="{{ app.title }} logo"/>
+      <div class="box-title">{{ app.title }}</div>
+      <div class="box-desc">{{ app.description }}</div>
+    </a>
+  </div>
+{% endfor %}
 </div>
