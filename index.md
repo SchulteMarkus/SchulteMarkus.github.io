@@ -54,6 +54,7 @@ It is impressive how much a **good team** can achieve.
 <div class="page-section">
 {% for app in site.data.services %}
   <div class="box">
+    <img src="/assets/img/service-icons/{{ app.img }}"  alt="{{ app.title }} icon"/>
     <div class="box-title">{{ app.title }}</div>
     <div class="box-desc">{{ app.description }}</div>
     <div class="box-desc">{{ app.skills }}</div>
