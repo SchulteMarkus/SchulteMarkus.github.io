@@ -6,15 +6,15 @@ css:
 
 # About me
 
-I am a computer scientist with more than **15 years of experience** in various programming
-languages, systems and team constellations.
-As a freelancer, I offer my expertise in various software projects—from cloud consulting and
-development to training and coaching of employees—and help you to build a more efficient and
-sustainable business.
+**15+ Years | Cloud & Dev Expert**
+
+I'm a highly skilled software engineer with over 15 years of experience.
+I help businesses like yours thrive by crafting cloud-based solutions, developing robust software,
+and empowering your team through training and coaching.
 
 ## My career
 
-- After leaving school, I started studying computer science at the University of Koblenz in 
+- After leaving school, I started studying computer science at the University of Koblenz in
   **2004**, which I finished with a diploma (similar to M.Sc.) in 2012
 - Parallel to my studies, I started working for
   [wer-kennt-wen.de](https://en.wikipedia.org/wiki/Werkenntwen) in **2008** as a PHP developer and
@@ -31,23 +31,6 @@ Hereby I am guided by the values of
 I think the collaboration and the human components are just as important as the technical ones.
 The sooner the right people have the right responsibilities, the better a product will succeed.
 It is impressive how much a **good team** can achieve.
-
-## Get in contact
-
-<div class="page-section">
-  <div class="box">
-    <a href="mailto:mail@schulte-development.de">
-      <img src="/assets/img/logos/mail.png" alt="Logo of email"/>
-      <div class="box-desc">mail@schulte-development.de</div>
-    </a>
-  </div>
-  <div class="box">
-    <a href="https://www.linkedin.com/in/markus-schulte">
-      <img src="/assets/img/logos/linkedin.png"  alt="LinkedIn logo"/>
-      <div class="box-desc">LinkedIn</div>
-    </a>
-  </div>
-</div>
 
 # My services
 
@@ -74,4 +57,24 @@ It is impressive how much a **good team** can achieve.
     </a>
   </div>
 {% endfor %}
+</div>
+
+# Contact
+
+<iframe src='https://outlook.office365.com/owa/calendar/Schultedevelopment1@schulte-development.de/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'>
+</iframe>
+
+<div class="page-section">
+  <div class="box">
+    <a href="mailto:mail@schulte-development.de">
+      <img src="/assets/img/logos/mail.png" alt="Logo of email"/>
+      <div class="box-desc">mail@schulte-development.de</div>
+    </a>
+  </div>
+  <div class="box">
+    <a href="https://www.linkedin.com/in/markus-schulte">
+      <img src="/assets/img/logos/linkedin.png"  alt="LinkedIn logo"/>
+      <div class="box-desc">LinkedIn</div>
+    </a>
+  </div>
 </div>

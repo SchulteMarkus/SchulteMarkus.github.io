@@ -11,11 +11,11 @@ navbar-links:
   About Me: "/#about-me"
   Services: "/#my-services"
   Portfolio: "/#my-portfolio"
+  Contact: "/#contact"
   Imprint: imprint
 social-network-links:
   email: mail@schulte-development.de
   linkedin: markus-schulte
   github: SchulteMarkus
   stackoverflow: markus-schulte
-footer-extra: footer-navigation.html
 
