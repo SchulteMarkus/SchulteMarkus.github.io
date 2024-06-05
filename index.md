@@ -77,7 +77,7 @@ It is impressive how much a **good team** can achieve.
   <div class="box">
     <a href="https://www.linkedin.com/in/markus-schulte">
       <img src="/assets/img/logos/linkedin.png"  alt="LinkedIn logo"/>
-      <div class="box-desc">LinkedIn</div>
+      <div class="box-desc">markus-schulte@LinkedIn</div>
     </a>
   </div>
 </div>
