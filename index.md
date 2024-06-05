@@ -61,10 +61,13 @@ It is impressive how much a **good team** can achieve.
 
 # Contact
 
-<iframe src='https://outlook.office365.com/owa/calendar/Schultedevelopment1@schulte-development.de/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'>
-</iframe>
-
 <div class="page-section">
+  <div class="box">
+    <a href="https://outlook.office365.com/owa/calendar/Schultedevelopment1@schulte-development.de/bookings/">
+      <img src="/assets/img/logos/microsoft_bookings_logo.png" alt="Outlook logo"/>
+      <div class="box-desc">Book appointment online</div>
+    </a>
+  </div>
   <div class="box">
     <a href="mailto:mail@schulte-development.de">
       <img src="/assets/img/logos/mail.png" alt="Logo of email"/>
