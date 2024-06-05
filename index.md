@@ -6,7 +6,7 @@ css:
 
 # About me
 
-**15+ Years | Cloud & Dev Expert**
+**15+ Years; Cloud & Dev Expert; Technical Architect**
 
 I'm a highly skilled software engineer with over 15 years of experience.
 I help businesses like yours thrive by crafting cloud-based solutions, developing robust software,
