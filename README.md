@@ -1,5 +1,6 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-pink.svg)](https://conventionalcommits.org)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+[![Build, deploy](https://github.com/SchulteMarkus/SchulteMarkus.github.io/actions/workflows/build_deploy.yml/badge.svg)](https://github.com/SchulteMarkus/SchulteMarkus.github.io/actions/workflows/build_deploy.yml)
 
 Website for [schulte-development.de](https://schulte-development.de)
 

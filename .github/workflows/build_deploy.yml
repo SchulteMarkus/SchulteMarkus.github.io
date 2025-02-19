@@ -1,4 +1,4 @@
-name: Build, deploy main-branch to GitHubPage
+name: Build, deploy to GitHubPage on main
 
 on:
   push:
