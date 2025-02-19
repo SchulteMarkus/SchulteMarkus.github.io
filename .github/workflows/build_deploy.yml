@@ -1,8 +1,12 @@
-name: Deploy Jekyll site to Pages
+name: Build, deploy main-branch to GitHubPage
 
 on:
   push:
-    branches: ["main"]
+    branches:
+      - '*'
+  pull_request:
+    branches:
+      - '*'
   workflow_dispatch:
 
 permissions:
@@ -35,11 +39,12 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref_name == 'main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
